@@ -6,7 +6,7 @@ end
 def say_hello(name)
   puts "Hello #{name}!"
 end
-name ("Karlie Kloss")
+say_hello("Karlie Kloss")
 
 
 
